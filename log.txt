@@ -1,0 +1,64 @@
+Jul 28, 2022 12:20:28 AM com.gemini.FindOccurence main
+INFO: Info msg
+Jul 28, 2022 12:23:37 AM com.gemini.FindOccurence main
+INFO: Info msg
+Jul 28, 2022 11:49:35 AM com.gemini.FindOccurence main
+INFO: Info msg
+Jul 28, 2022 11:50:04 AM com.gemini.FindOccurence main
+INFO: Info msg
+Jul 28, 2022 11:55:53 AM com.gemini.FindOccurence main
+INFO: Properties object created
+Jul 28, 2022 11:55:53 AM com.gemini.FindOccurence main
+INFO: File object created
+Jul 28, 2022 11:55:53 AM com.gemini.FindOccurence main
+INFO: HashMap created
+Jul 28, 2022 11:55:53 AM com.gemini.FindOccurence main
+INFO: Scanning words from the file
+Jul 28, 2022 11:55:53 AM com.gemini.FindOccurence main
+INFO: Scanning words from the file
+Jul 28, 2022 12:23:11 PM com.gemini.FindOccurence main
+INFO: Properties object created
+Jul 28, 2022 12:23:11 PM com.gemini.FindOccurence main
+INFO: File object created
+Jul 28, 2022 12:23:11 PM com.gemini.FindOccurence main
+INFO: HashMap created
+Jul 28, 2022 12:23:11 PM com.gemini.FindOccurence main
+INFO: Scanning words from the file
+Jul 28, 2022 12:23:11 PM com.gemini.FindOccurence main
+INFO: Scanning words from the file
+Jul 28, 2022 12:26:02 PM com.gemini.FindOccurence main
+INFO: Properties object created
+Jul 28, 2022 12:26:02 PM com.gemini.FindOccurence main
+INFO: File object created
+Jul 28, 2022 12:26:03 PM com.gemini.FindOccurence main
+INFO: HashMap created
+Jul 28, 2022 12:26:03 PM com.gemini.FindOccurence main
+INFO: Scanning words from the file
+Jul 28, 2022 12:26:03 PM com.gemini.FindOccurence main
+INFO: File is successfully traversed
+Jul 28, 2022 12:26:03 PM com.gemini.FindOccurence main
+INFO: File is successfully traversed
+Jul 28, 2022 12:26:03 PM com.gemini.FindOccurence main
+INFO: File is successfully traversed
+Jul 28, 2022 12:26:03 PM com.gemini.FindOccurence main
+INFO: File is successfully traversed
+Jul 28, 2022 12:26:03 PM com.gemini.FindOccurence main
+INFO: File is successfully traversed
+Jul 28, 2022 12:26:03 PM com.gemini.FindOccurence main
+INFO: File is successfully traversed
+Jul 28, 2022 12:26:03 PM com.gemini.FindOccurence main
+INFO: Scanning words from the file
+Jul 28, 2022 12:26:03 PM com.gemini.FindOccurence main
+INFO: File is successfully traversed
+Jul 28, 2022 12:26:03 PM com.gemini.FindOccurence main
+INFO: File is successfully traversed
+Jul 28, 2022 12:26:03 PM com.gemini.FindOccurence main
+INFO: File is successfully traversed
+Jul 28, 2022 12:26:03 PM com.gemini.FindOccurence main
+INFO: File is successfully traversed
+Jul 28, 2022 12:26:03 PM com.gemini.FindOccurence main
+INFO: File is successfully traversed
+Jul 28, 2022 12:26:03 PM com.gemini.FindOccurence main
+INFO: File is successfully traversed
+Jul 28, 2022 12:26:03 PM com.gemini.FindOccurence main
+INFO: Hashmap contains the required word
